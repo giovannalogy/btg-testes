@@ -18,7 +18,7 @@ namespace btg_testes_auto
                     continue;
                 }
 
-                if (pessoa.PossuiHabilitaçãoB)
+                if (pessoa.PossuiHabilitacaoB)
                 {
                     motoristas.Add(pessoa);
                     if (motoristas.Count == 2)
